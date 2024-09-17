@@ -1,5 +1,5 @@
 # aygaz_machine_learning_project
-# IMDb Film Yorumları ve Sentiment Analizi Projesi
+# IMDb Film Yorumları ve Sentiment Analizi Projesi (Projem Master branch içerisinde.)
 
 ## Proje Hakkında
 Bu proje, IMDb'den alınan 50.000 film eleştirisi ve bu eleştirilerin duygu (sentiment) etiketlerini kullanarak makine öğrenmesi algoritmalarını test etmeyi amaçlamaktadır. Projede iki farklı öğrenme türü olan denetimli (supervised) ve denetimsiz (unsupervised) öğrenme algoritmaları aynı veri seti üzerinde çalıştırılmıştır. Bu sayede, veri setinin her iki yöntem açısından nasıl performans gösterdiği incelenmiştir.
